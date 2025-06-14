@@ -1,11 +1,19 @@
 // src/pages/HomeScreen/HomeScreen.jsx
 import React from 'react'
+import HomeHeader from './HomeHeader.jsx'
+import UserProfile from './UserProfile.jsx'
+import FriendList from './FriendList.jsx'
+// import NavigationBar from './NavigationBar.jsx'
 
 export default function HomeScreen() {
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-white">
-      <h1 className="text-2xl font-bold text-gray-800">홈 화면에 오신 걸 환영합니다</h1>
-      <p className="mt-2 text-gray-500">여기에 유저 정보, 친구 목록 등을 추가할 예정입니다.</p>
+    <div className="min-h-screen bg-lime-100 flex flex-col">
+      <HomeHeader />
+       <div className="w-screen h-screen mt-5">
+        <UserProfile />
+        <div className="w-screen m-5 text-gray-800 text-2xl font-extrabold ">친구</div>
+        <FriendList />
+      </div>
     </div>
   )
 }

@@ -17,7 +17,7 @@ export default function SplashScreen() {
     <div className="bg-lime-200 h-screen text-center flex flex-col itmes-center justify-center">
       <h1 className="text-3xl font-extrabold mb-4 text-gray-800">Last Chat</h1>
       <img src={logo} alt="PapayaTalk Logo" className="mx-auto w-24" />
-      <p className="text-gray-500 mt-4">“세상은 무너졌다.<br />마지막 연결은 톡뿐이었다.”</p>
+      <p className="text-gray-500 mt-4">“세상은 무너졌다.<br />마지막 희망은 톡 뿐이었다.”</p>
     </div>
   )
 }
