@@ -3,7 +3,6 @@ import React from 'react'
 import HomeHeader from './HomeHeader.jsx'
 import UserProfile from './UserProfile.jsx'
 import FriendList from './FriendList.jsx'
-// import NavigationBar from './NavigationBar.jsx'
 
 export default function HomeScreen() {
   return (

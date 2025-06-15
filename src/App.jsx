@@ -4,14 +4,16 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 // import ChoiceButton from './components/ChoiceButton/ChoiceButton'
 import SplashScreen from './pages/SplashScreens/SplashScreen.jsx'
 import HomeScreen from './pages/HomeScreen/HomeScreen.jsx'
+import ChatRoom from './pages/ChatRoom/ChatRoom.jsx'
 
 function App() {
   return (
-    <div className="bg-white dark:bg-gray-900 text-gray-800 dark:text-white min-h-screen">
+    <div>
       <BrowserRouter>
        <Routes>
         <Route path="/" element={<SplashScreen />} />
         <Route path="/home" element={<HomeScreen />} />
+        <Route path="/chatroom" element={<ChatRoom />} />
       </Routes>
      </BrowserRouter> 
     </div>

@@ -1,6 +1,6 @@
 // src/pages/SplashScreen.jsx
-import React, { useEffect } from 'react'
-import { useNavigate } from 'react-router-dom' // 자동전환 애니메이션
+import React, { useEffect } from 'react' // 페이지 자동전환
+import { useNavigate } from 'react-router-dom' // 페이지 이동
 import logo from '../../assets/papaya-logo-cc.png' // 경로 맞게 조정
 
 export default function SplashScreen() {
