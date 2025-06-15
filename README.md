@@ -1,4 +1,4 @@
-# ☢️ 파파야톡 (PapayaTalk)
+# ☢️ LAST CHAT - feat. PapayaTalk
 
 > **"세상이 무너질 때, 마지막 연락은 메시지였다."**
 
@@ -13,7 +13,7 @@ React + Vite로 개발된 감성 어드벤처 인터페이스 실험 프로젝�
 
 - ⚛ React
 - ⚡ Vite
-- 🎨 Inline Styling (`style={{}}` 방식)
+- 🎨 Tailwind CSS
 - 🐱 GitHub + Git Bash
 
 ---
