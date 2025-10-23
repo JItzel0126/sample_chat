@@ -72,7 +72,7 @@
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/84450d44-05f6-4eef-b9b0-13d497acd28f" />
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/a173ef0c-aa61-40df-befc-20c040bcea2c" />
-<img width="320" height="720" alt="image" src="https://github.com/user-attachments/assets/a6e22ed7-80d9-4228-a60f-9e7acbd684dc" />
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/a6e22ed7-80d9-4228-a60f-9e7acbd684dc" />
 
 ## 🧭 실행 방법
 
