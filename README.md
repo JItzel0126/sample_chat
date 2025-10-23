@@ -3,7 +3,9 @@
 > **"세상이 무너질 때, 마지막 연락은 메시지였다."**
 
 📱 **인터랙티브 챗픽션 실험 프로젝트**
-** "텍스트만으로, 종말을 느낄 수 있을까?" **
+
+> ** "텍스트만으로, 종말을 느낄 수 있을까?" **
+
 - 현재 기획 및 프로토타입 설계 중인 PapayaTalk 엔진 기반 텍스트 어드벤처입니다.
 - '톡' UI로 진행되는 종말 서사를 목표로,
 - 플레이어는 메시지를 통해 생존 방향을 선택함하고 종말의 도시에서 살아남아야 합니다.
@@ -69,17 +71,13 @@
 
 ---
 
-## 🖼 Sample 스크린샷
-
-<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/84450d44-05f6-4eef-b9b0-13d497acd28f" />
-<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/a173ef0c-aa61-40df-befc-20c040bcea2c" />
-<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/a6e22ed7-80d9-4228-a60f-9e7acbd684dc" />
-
 ## 🧭 Sample 실행 방법
 
 ```bash
 npm install
-npm run dev
+npm run dev```
+
+---
 
 ## 🗂️ Sample 폴더 구조
 
@@ -103,3 +101,12 @@ npm run dev
 │  ├─ ⚛ App.jsx               # 전체 앱 라우팅 및 구조 설정
 │  ├─ 🎨 index.css            # 전역 스타일 (Tailwind 기본 스타일 포함)
 │  └─ 🚀 main.jsx             # React 진입 파일 (렌더링 시작점)
+
+---
+
+## 🖼 Sample 스크린샷
+
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/84450d44-05f6-4eef-b9b0-13d497acd28f" />
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/a173ef0c-aa61-40df-befc-20c040bcea2c" />
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/a6e22ed7-80d9-4228-a60f-9e7acbd684dc" />
+
