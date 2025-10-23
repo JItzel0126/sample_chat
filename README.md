@@ -70,9 +70,9 @@
 
 ## 🖼 Sample 스크린샷
 
-<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/84450d44-05f6-4eef-b9b0-13d497acd28f" />
-<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/a173ef0c-aa61-40df-befc-20c040bcea2c" />
-<img width="640" height="820" alt="image" src="https://github.com/user-attachments/assets/a6e22ed7-80d9-4228-a60f-9e7acbd684dc" />
+<img width="340" height="400" alt="image" src="https://github.com/user-attachments/assets/84450d44-05f6-4eef-b9b0-13d497acd28f" />
+<img width="340" height="600" alt="image" src="https://github.com/user-attachments/assets/a173ef0c-aa61-40df-befc-20c040bcea2c" />
+<img width="340" height="720" alt="image" src="https://github.com/user-attachments/assets/a6e22ed7-80d9-4228-a60f-9e7acbd684dc" />
 
 ## 🧭 실행 방법
 
